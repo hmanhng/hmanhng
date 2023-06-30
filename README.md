@@ -1,1 +1,2 @@
-- 👋 Hi, I’m [hmanhng](https://www.facebook.com/manh.nh205213)
+- 👋 Hi, I’m @hmanhng
+- 📞 Contact me: [Telegram](https://t.me/hmanhng), [Mail](mailto:hmanhng@duck.com?subject=[GitHub]%20hmanhng)
